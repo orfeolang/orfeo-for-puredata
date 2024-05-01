@@ -1,0 +1,11 @@
+# Dataline 0.2.0 by Orfeo 0.2.0
+
+0 0 open
+0 1 open
+0 1 tempo 60
+0 1 note a
+0 1 note b
+0 1 note c
+0 1 note d
+4 1 close
+4 0 close
